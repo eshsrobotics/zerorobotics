@@ -1,0 +1,27 @@
+**** Important links
+     1. Group calendar
+     2. [[https://github.com/eshsrobotics/zerorobotics.git][GitHub account]]
+**** Team contact information 
+     1. Uche Akotaobi 
+     2. [[mailto:hcumpson_18@esusdstudents.org][Hailey Cumpson]] (Junior)
+     3. [[mailto:adrianosorio101@gmail.com][Adrian Osorio]]
+**** Task list [0/3]
+     1. [ ] Setup tasks
+	- [ ] Get list of people who are on the team
+	- [ ] Sign up for zero robotics on the website
+	  * When is the deadline for signing in?
+	- [ ] Create calendar for ZR deadlines
+     2. [ ] Get a PC inventory
+	- *Goal* Find out which machines are running what, what the
+          machines need, and when we're going to install those.
+	- [ ] List of software on laptops
+	- Machine list:
+          | Machine | 
+     3. [ ] Code submission, round 1
+	- *Goal*: To make the robot at least run in a circle.
+	  * Should be easy.
+	- [ ] *Questions*:
+	  * [ ] Where do we submit our files?
+	  * [ ] What can we reuse from last year?
+	  * [ ] Where is the WebIDE?
+	  * [ ] How do we compile?
